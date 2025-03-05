@@ -51,7 +51,7 @@ Make sure you have **Python 3+** installed on your system. If you haven't instal
 
 ## Screenshots
 
-*(Add a screenshot of your application here to showcase the UI)*
+![Weather App Shot](weatherappshot.png)
 
 ## API Key Setup
 
